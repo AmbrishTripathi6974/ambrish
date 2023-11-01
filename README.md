@@ -72,7 +72,7 @@ I welcome contributions and suggestions from the community! If you come across a
 
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
-- **Email:** rh676838@gmail.com
+- **Email:** itsambrishtripathi@gmail.com
 - **LinkedIn:** [Hamad Anwar]([https://www.linkedin.com/in/hamad-anwar](https://www.linkedin.com/in/ambrish-tripathi-iiitu/))
 
 ## License
