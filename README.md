@@ -1,10 +1,10 @@
 # Responsive Flutter Portfolio Application & Website
 
-Thank you for visiting my portfolio website repository. This Flutter-based website serves as a showcase of my skills, projects, certifications, and ways to get in touch with me. The website is designed with a strong focus on responsiveness, ensuring that it looks and works flawlessly across a range of devices, from large desktop screens to compact Android devices.
+I appreciate you stopping by my online portfolio repository. This Flutter-powered website functions as a portfolio of my abilities, completed projects, credentials, and contact information. The responsive design of the website ensures that it functions and looks great on a variety of devices, including small Android phones and large desktop screens.
 
 ## Live Demo
 
-You can explore the live version of the website [Click to see live demo](https://hamad-anwar.github.io/Portfolio/#/).
+You can explore the live version of the website [Click to see live demo]([https://hamad-anwar.github.io/Portfolio/#/](https://ambrishtripathi6974.github.io/ambrishtripathi6974.github.io-Portfolio/)).
 
 ## Screenshots
 
@@ -73,7 +73,7 @@ I welcome contributions and suggestions from the community! If you come across a
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
 - **Email:** itsambrishtripathi@gmail.com
-- **LinkedIn:** [Hamad Anwar]([https://www.linkedin.com/in/hamad-anwar](https://www.linkedin.com/in/ambrish-tripathi-iiitu/))
+- **LinkedIn:** [Ambrish Tripathi]([https://www.linkedin.com/in/hamad-anwar](https://www.linkedin.com/in/ambrish-tripathi-iiitu/))
 
 ## License
 
